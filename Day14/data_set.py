@@ -1,0 +1,22 @@
+data = {
+    "Instagram": ["Social Media App", 686],
+    "Cristiano Ronaldo": ["Footballer", 651],
+    "Lionel Messi": ["Footballer", 505],
+    "Selena Gomez": ["Singer/Actress", 421],
+    "Dwayne Johnson": ["Actor", 394],
+    "Kylie Jenner": ["Reality TV/Businesswoman", 393],
+    "Ariana Grande": ["Singer", 376],
+    "Kim Kardashian": ["Reality TV/Businesswoman", 357],
+    "Beyoncé": ["Singer", 311],
+    "Khloé Kardashian": ["Reality TV", 303],
+    "Nike": ["Sportswear Brand", 302],
+    "Justin Bieber": ["Singer", 293],
+    "Kendall Jenner": ["Model", 293],
+    "Taylor Swift": ["Singer", 266],
+    "Neymar Jr.": ["Footballer", 202],
+    "Virat Kohli": ["Cricketer", 201],
+    "Kanye West": ["Rapper/Fashion Designer", 151],
+    "Gigi Hadid": ["Model", 106],
+    "LISA": ["Singer", 99.3],
+    "Nick Jonas": ["Singer/Actor", 94.3]
+}
